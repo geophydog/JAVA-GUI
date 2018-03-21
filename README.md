@@ -2,4 +2,4 @@
 
 ***
 
-### :one: [FirstGUI App](https://github.com/geophydog/JAVA-GUI/blob/master/FirstGUI-APP/README.md)
+### :one: [FirstGUI App](https://github.com/geophydog/JAVA-GUI/tree/master/FirstGUI-APP/)
